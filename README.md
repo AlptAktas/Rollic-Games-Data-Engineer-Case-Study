@@ -1,1 +1,1 @@
-# Rollic-Games-Data-Engineer-Case-Study
+# Rollic Games Data Engineer Case Study
